@@ -101,7 +101,7 @@ private void measureLine(String line) {
 ```
 
 ```java
-private static double determinant(doublie a, double b, double c) {
+private static double determinant(double a, double b, double c) {
 	return b*b - 4*a*c;  // 승수 사이에는 공백이 없고, 항 사이에는 공백이 들어감
 }
 ```
